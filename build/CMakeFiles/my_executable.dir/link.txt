@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/my_executable.dir/matmul.o -o my_executable  -Wl,-rpath,/opt/arrayfire/lib64 /opt/arrayfire/lib64/libaf.so.3.9.0 
